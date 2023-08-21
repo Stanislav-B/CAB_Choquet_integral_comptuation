@@ -1,1 +1,1 @@
-# CAB_Choquet_integral_comptuation
+# CAB_Choquet_integral_computation
