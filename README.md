@@ -1,6 +1,6 @@
-# CAB_Choquet_integral_computation
+# Conditional aggregation-based Choquet integral computation
 
-This repository contains the software implementation of generalized survival function calculation and the conditional aggregation-based Choquet integral calculation on discrete space, which is a part of the paper entitled "Conditional aggregation-based Choquet integral on discrete space".
+This repository contains the software implementation of generalized survival function calculation and the calculation of conditional aggregation-based Choquet integral on discrete space, which is a part of the paper entitled "Conditional aggregation-based Choquet integral on discrete space".
 
 Authored by
 
